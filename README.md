@@ -14,11 +14,11 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
-          <h1>Mohammad Zhour</h1>
+          <b>Mohammad Zhour</b>
         </samp>
-</h3>
+</h2>
 
 
 <p align="center">
