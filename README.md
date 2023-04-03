@@ -12,20 +12,6 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
-        </samp>
-</h3>
-
 
 <p align="center"> 
   <samp>
@@ -58,17 +44,14 @@
   </a> 
 </p>
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+<h1>About Me 📌</h1>
+
+- 👋 I’m Raghad Abu Samor
+- 🔭 I’m enthusiastic, result-oriented person
+- 💁‍♂️ I’m Studying computer system engineering at PPU
+- 💻 I’m currently working as a Administrator, Graphic designer and co-founder at a local platform 
+- 🌱 I’m currently focusing on learning python and Django
 
 </p>
 
