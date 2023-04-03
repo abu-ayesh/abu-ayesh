@@ -14,13 +14,7 @@
 
 
 <p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
+  <h1> Hello I'am Mohammad Zhour </h1>
 </p>
 
 <p align="center">
@@ -47,7 +41,7 @@
   
 <h1>About Me 📌</h1>
 
-- 👋 I’m Raghad Abu Samor
+- 👋 I’m Mohammad Zhour
 - 🔭 I’m enthusiastic, result-oriented person
 - 💁‍♂️ I’m Studying computer system engineering at PPU
 - 💻 I’m currently working as a Administrator, Graphic designer and co-founder at a local platform 
