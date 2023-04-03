@@ -16,14 +16,9 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Mohammad Zhour</b>
+          <h1>Mohammad Zhour</h1>
         </samp>
 </h3>
-
-<p align="center"> 
-    「 I am a wordpress and php developer</b> 」
-    <br>
-</p>
 
 
 <p align="center">
